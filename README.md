@@ -18,4 +18,8 @@ N/A
 
 ## License
 
+<<<<<<< HEAD
 Please refer to the LICENSE in the repo.
+=======
+Please refer to the LICENSE in the repo.
+>>>>>>> 0993af58dbaa3a85c993d902a4067d09ba194664
